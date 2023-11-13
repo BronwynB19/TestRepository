@@ -31,9 +31,10 @@ git commit (write a comment, save, and close that window)
 """
 
 """
-how to branch a branch?
-my git status doesnt give me "up to date" like the video, says my branch is ahead by 3 commits?
-having a tricky time getting git commit to work, but i can do it fine in desktop?
-what are pull requests on web?
+How to branch a branch?
+My git status doesnt give me "up to date" like the video, says my branch is ahead by 3 commits?
+Having a tricky time getting git commit to work, but i can do it fine in desktop?
+What are pull requests on web?
+Video didn't show how to join branches. How do that?
 """
 
