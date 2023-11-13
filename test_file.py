@@ -38,6 +38,9 @@ What are pull requests on web?
 Video didn't show how to join branches. How do that?
     Is this merging? I'd assume yes.
 Having a tricky time understanding commands in desktop vs terminal
+    git add > git commit = commit on desktop
+    git push origin HEAD = push origin/main on desktop
+Does Merge get rid of the branch?
 """
 
 """
