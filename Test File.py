@@ -24,6 +24,10 @@ Now I gotta learn about
 """
 
 """
+When you move branches without committing(on desktop), changes get stashed and need to be restored and committed
+"""
+
+"""
 how to branch a branch
 """
 
