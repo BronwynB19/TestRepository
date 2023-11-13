@@ -39,3 +39,6 @@ Video didn't show how to join branches. How do that?
     Is this merging? I'd assume yes.
 """
 
+"""
+So before this, it seemed like my branches were still separate, but contained the same data when i clicked "fetch origin/main" on desktop
+"""
