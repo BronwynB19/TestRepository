@@ -36,5 +36,6 @@ My git status doesnt give me "up to date" like the video, says my branch is ahea
 Having a tricky time getting git commit to work, but i can do it fine in desktop?
 What are pull requests on web?
 Video didn't show how to join branches. How do that?
+    Is this merging? I'd assume yes.
 """
 
