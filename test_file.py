@@ -37,5 +37,6 @@ Having a tricky time getting git commit to work, but i can do it fine in desktop
 What are pull requests on web?
 Video didn't show how to join branches. How do that?
     Is this merging? I'd assume yes.
+Having a tricky time understanding commands in desktop vs terminal
 """
 
