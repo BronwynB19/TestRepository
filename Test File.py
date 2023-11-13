@@ -7,10 +7,23 @@ I figured out how to add files
 
 """
 Now I gotta learn about 
+    Commit
+        Updates local repository
     Push
+        Updates remote repository(GitHub) (i think u only do this when it's 100% ready to go in)
     Pull
+        Updates your local branch with changes from the remote repository and merges them into your current branch.
     Fetch
+        Fetches changes from the remote repository but doesn't automatically merge them into your current branch
     Remove
-    Branch
+    Branch commands
+        git branch: shows branches and current branch
+        git branch -c new_branch_name: creates a new branch with new_branch_name
+        git checkout branch_name: sets current working branch to branch_name
+
+"""
+
+"""
+how to branch a branch
 """
 
