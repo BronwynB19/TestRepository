@@ -29,5 +29,6 @@ When you move branches without committing(on desktop), changes get stashed and n
 
 """
 how to branch a branch
+my git status doesnt give me "up to date" like the video, says my branch is ahead by 3 commits
 """
 
