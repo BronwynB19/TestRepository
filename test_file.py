@@ -11,6 +11,7 @@ Now I gotta learn about
         Updates local repository
     Push
         Updates remote repository(GitHub) (i think u only do this when it's 100% ready to go in)
+        Changes on remote pository are not there until you push
     Pull
         Updates your local branch with changes from the remote repository and merges them into your current branch.
     Fetch
@@ -30,5 +31,6 @@ When you move branches without committing(on desktop), changes get stashed and n
 """
 how to branch a branch
 my git status doesnt give me "up to date" like the video, says my branch is ahead by 3 commits
+having a tricky time getting git commit to work, but i can do it fine in desktop
 """
 
