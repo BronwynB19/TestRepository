@@ -26,6 +26,8 @@ Now I gotta learn about
 
 """
 When you move branches without committing(on desktop), changes get stashed and need to be restored and committed
+git add (file_name or .)
+git commit (write a comment, save, and close that window) 
 """
 
 """
